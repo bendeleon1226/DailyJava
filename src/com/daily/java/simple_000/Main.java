@@ -1,4 +1,4 @@
-package com.java11developer.exam.review;
+package com.daily.java.simple_000;
 
 import java.util.HashMap;
 import java.util.Map;
